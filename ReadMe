@@ -1,0 +1,4 @@
+Get the input.
+use the replaceAll method to remove the special character like @,#,%, etc.
+use the splited method to split the word when the space is occured.
+use the for loop to translate the user readable text file from the dolphin conversation text file.
